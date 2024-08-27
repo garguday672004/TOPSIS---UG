@@ -38,7 +38,7 @@
 4. **Receive Results**: View the results directly on the web interface and receive them via email.
 
 ## Live Demo
-Check out the live demo [here]([https://your-demo-link.com](https://youtu.be/8IxcKFrT1ig?si=LgtZimqcho2NXeV7)).
+Check out the live demo [here]([[https://your-demo-link.com](https://youtu.be/8IxcKFrT1ig?si=LgtZimqcho2NXeV7)]).
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
